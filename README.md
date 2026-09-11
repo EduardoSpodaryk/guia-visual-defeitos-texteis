@@ -1,4 +1,4 @@
-# Trama — Guia visual de defeitos têxteis
+# Trama - Guia visual de defeitos têxteis
 
 Guia de consulta para identificar sinais de defeitos em tecidos e costuras, conferir informações e registrar uma ocorrência antes de encaminhá-la para avaliação.
 
